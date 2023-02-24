@@ -1,6 +1,9 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<h1>You're going to need this 
+    <br>
+    <a href="https://kit.svelte.dev">kit.svelte.dev</a>
+</h1>
 
 
 
-<a href=""> </a>
+
+<a href="/thing">heres another route</a>
